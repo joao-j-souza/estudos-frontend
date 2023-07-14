@@ -13,9 +13,10 @@ Sequência:
 4. Finalizar o trabalho na branch temporária.
 5. Git checkout na branch principal.
     $ git checkout [branch-principal]
-6. git pull da branch principal.
+6. Git pull da branch principal.
     $ git pull origin [branch-principal].
-7. fazer o merge (únir) os códigos da branch temporária com a principal, depois de testado.
+7. Fazer o merge (únir) os códigos da branch temporária com a principal, depois de testado.
     $ git checkout [branch-principal] $ git merge [branch-temporaria].
-8. push da branch principal.
+8. Envia para o repositório remoto.
     $ git push origin [branch-principal]
+   
