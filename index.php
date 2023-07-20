@@ -23,6 +23,7 @@
     <!-- Conteúdo principal da página -->
     <main>
         <h2>Título do Conteúdo Principal</h2>
+        <h3>Subtítulo do Conteúdo Principal</h3>
         <p>Este é um parágrafo de exemplo.</p>
         <img src="caminho_da_imagem.jpg" alt="Descrição da Imagem">
     </main>
